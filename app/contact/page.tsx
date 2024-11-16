@@ -15,7 +15,7 @@ const socials = [
 		icon: <Mail size={20} />,
 		href: "mailto:dev@kellykelvinaime.com",
 		label: "Email",
-		handle: "@simwakelvin",
+		handle: "@shimwakelvin",
 	},
 	{
 		icon: <Github size={20} />,
