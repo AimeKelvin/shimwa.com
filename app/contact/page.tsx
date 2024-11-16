@@ -7,15 +7,15 @@ import { Card } from "../components/card";
 const socials = [
 	{
 		icon: <Instagram size={20} />,
-		href: "https://twitter.com/shimmwa",
+		href: "https://twitter.com/shimmw.a",
 		label: "Instagram",
-		handle: "@shimmwa",
+		handle: "@shimmw.a",
 	},
 	{
 		icon: <Mail size={20} />,
 		href: "mailto:dev@kellykelvinaime.com",
 		label: "Email",
-		handle: "kellykelvinaime@gmail.com",
+		handle: "@simwakelvin",
 	},
 	{
 		icon: <Github size={20} />,
